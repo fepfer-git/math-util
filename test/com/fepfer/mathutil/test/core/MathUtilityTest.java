@@ -88,7 +88,7 @@ public class MathUtilityTest {
             //bat try catch la Junit se ra mau xanh, vi minh da chu dong kiem soat ngoai le
             //nhung ko chac ngoai le minh can co xuat hien hay ko
             //co doan code kiem soat dung ngoai le IllegalArgumentException xuat hien
-            Assert.assertEquals("Invalid argument. N must be between 0...20", e.getMessage());
+            Assert.assertEquals("N must be between 0 to 20", e.getMessage());
         }
     }
 
