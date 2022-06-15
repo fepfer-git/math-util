@@ -23,7 +23,7 @@ public class MathUtilDDTTest {
             {3, 6},
             {4, 24},
             {5, 120},
-            {6, 320},};
+            {6, 720},};
 
     }
     //gia su loop qua dc tung dong cua mang, ta van can gan tung value cua cot vao tung bien tuong ung input, expected
