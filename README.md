@@ -7,7 +7,6 @@
 
 
 ### Screenshots
-![DDT & TDD with JUnit] (https://github.com/fepfer-git/math-util/blob/main/Images/JunitTest.png)
-
+![DDT & TDD with JUnit](https://github.com/fepfer-git/math-util/blob/main/Images/DDT%20with%20JUnitTest.png)
 
 #### © 2022 fepfer-git
