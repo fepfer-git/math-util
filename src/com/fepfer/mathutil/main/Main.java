@@ -29,10 +29,9 @@ public class Main {
         // KÌ VỌNG : MONG HÀM SẼ TRẢ VỀ VALUE NÀO ĐÓ ỨNG VỚI INPUT Ở TRÊN
         // SO SÁNH ĐẺ XEM KÉT QUẢ CÓ NHƯ KÌ VỌNG HAY KO
         
-        long expected = 5040; //expected
-        int n = 7; //input
+        int n = 9; //input
         long actual = MathUtil.getFactorial(n);
-        System.out.println(n +"! = " + expected + " (expected); actual : " + actual);
+        System.out.println(actual);
         
         
     }
